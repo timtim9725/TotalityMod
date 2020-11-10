@@ -1,0 +1,26 @@
+type: SingleTypeGenerator
+name: Générateur en Totality
+description: Un générateur qui créer un soleil artificielle grace au totality.
+size: 3
+hasPower: true
+hasItems: true
+itemDuration: 90
+buildTime: 240
+itemCapacity: 10
+powerProduction: 10
+consumes: {
+  items: {
+    items: [
+      totality/1
+    ]
+    optional: true
+  }
+}
+requirements: [
+  copper/200
+  metaglass/80
+  silicon/80
+  totality/100
+]
+category: power
+research: totality-generator

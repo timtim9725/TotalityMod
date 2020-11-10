@@ -1,0 +1,6 @@
+name: "Totality Mod"
+displayName: "[orange]Totality[gold] Mod" //what displays in the mod selection menu
+author: "[red]Timtim9725"
+description: "Un mod cool"
+version: "Beta"
+minGameVersion: "103"

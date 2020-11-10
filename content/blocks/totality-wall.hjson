@@ -1,0 +1,10 @@
+name: Grand mur de totality
+description: A wall made of silver. Not particularly useful or interesting.
+type: Wall
+health: 4000
+size: 2
+requirements: [
+  totality/24
+]
+category: defense
+research: totality-wall

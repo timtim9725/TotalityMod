@@ -1,0 +1,10 @@
+name: Mur de totality
+description: A wall made of silver. Not particularly useful or interesting.
+type: Wall
+health: 1400
+size: 1
+requirements: [
+  totality/6
+]
+category: defense
+research: totality-wall-small

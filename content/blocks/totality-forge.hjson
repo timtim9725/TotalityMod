@@ -1,0 +1,33 @@
+type: GenericSmelter
+name: Forge à totality
+description: Combines des matériaux pour en faire du Totality.
+size: 2
+itemCapacity: 30
+hasPower: true
+hasItems: true
+craftTime: 90
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.5
+  items: {
+    items: [
+      copper/5
+      lead/5
+      coal/5
+      titanium/5
+      thorium/5
+    ]
+  }
+}
+requirements: [
+  copper/200
+  lead/100
+  thorium/80
+  silicon/60
+  graphite/60
+]
+category: crafting
+research: totality-forge
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: totality/1

@@ -1,0 +1,16 @@
+name: Mecha de totality
+description: An unnaturally elongated mech. Spews messy lightning all over your enemies.
+speed: 1
+boostSpeed: 2
+buildPower: 10
+engineColor: "666495"
+flying: true
+health: 500
+weaponOffsetX: 4
+weapon: {
+  name: totality-blaster
+  length: 5
+  reload: 1
+  alternate: true
+  bullet: standardHoming
+}

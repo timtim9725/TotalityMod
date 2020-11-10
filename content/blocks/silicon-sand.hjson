@@ -1,0 +1,6 @@
+type: floor
+name: Silicium
+itemDrop: silicon
+variants: 3
+tier: 4
+playerUnmineable: true

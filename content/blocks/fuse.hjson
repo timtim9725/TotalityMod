@@ -1,0 +1,17 @@
+shootSound: swings
+ammo: {
+  graphite: {
+    damage: 105
+    ammoMultiplier: 4
+  }
+  totality: {
+    speed: 6.0
+    damage: 300
+    reloadMultiplier: 4
+    bulletWidth: 7
+    bulletHeight: 9
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 6
+  }
+}

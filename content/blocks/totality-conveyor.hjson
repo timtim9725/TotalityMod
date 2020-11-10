@@ -1,0 +1,12 @@
+type: Conveyor
+name: Convoyeur en totality
+description: convoyeur très rapides.
+requirements: [
+  titanium/3
+  copper/3
+  lead/3
+  totality/3
+]
+category: distribution
+speed: 0.2
+research: totality-conveyor

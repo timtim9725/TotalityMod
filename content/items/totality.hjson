@@ -1,0 +1,5 @@
+type: material
+name: Totality
+description: Un matériaux qui permet de ce transformer un tout.
+cost: 2.5
+color: dcd16b

@@ -1,0 +1,6 @@
+type: floor
+name: Graphite
+itemDrop: graphite
+variants: 3
+tier: 4
+playerUnmineable: true
